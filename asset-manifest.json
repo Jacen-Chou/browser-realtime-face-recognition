@@ -1,16 +1,16 @@
 {
   "main.css": "/browser-realtime-face-recognition/static/css/main.23b4575f.chunk.css",
-  "main.js": "/browser-realtime-face-recognition/static/js/main.b7c92104.chunk.js",
-  "main.js.map": "/browser-realtime-face-recognition/static/js/main.b7c92104.chunk.js.map",
+  "main.js": "/browser-realtime-face-recognition/static/js/main.643ebdd6.chunk.js",
+  "main.js.map": "/browser-realtime-face-recognition/static/js/main.643ebdd6.chunk.js.map",
   "static/css/1.ae1e8faa.chunk.css": "/browser-realtime-face-recognition/static/css/1.ae1e8faa.chunk.css",
   "static/js/1.efb6eff5.chunk.js": "/browser-realtime-face-recognition/static/js/1.efb6eff5.chunk.js",
   "static/js/1.efb6eff5.chunk.js.map": "/browser-realtime-face-recognition/static/js/1.efb6eff5.chunk.js.map",
   "runtime~main.js": "/browser-realtime-face-recognition/static/js/runtime~main.3239acaf.js",
   "runtime~main.js.map": "/browser-realtime-face-recognition/static/js/runtime~main.3239acaf.js.map",
-  "static/css/main.23b4575f.chunk.css.map": "/browser-realtime-face-recognition/static/css/main.23b4575f.chunk.css.map",
-  "static/media/test.jpg": "/browser-realtime-face-recognition/static/media/test.34e86f06.jpg",
   "static/css/1.ae1e8faa.chunk.css.map": "/browser-realtime-face-recognition/static/css/1.ae1e8faa.chunk.css.map",
+  "static/media/test.jpg": "/browser-realtime-face-recognition/static/media/test.34e86f06.jpg",
+  "static/css/main.23b4575f.chunk.css.map": "/browser-realtime-face-recognition/static/css/main.23b4575f.chunk.css.map",
   "index.html": "/browser-realtime-face-recognition/index.html",
-  "precache-manifest.8096bc221b6e1fec9b205e5a67886a84.js": "/browser-realtime-face-recognition/precache-manifest.8096bc221b6e1fec9b205e5a67886a84.js",
+  "precache-manifest.b761e9d3ec7b15ca87712d6e334ae7b1.js": "/browser-realtime-face-recognition/precache-manifest.b761e9d3ec7b15ca87712d6e334ae7b1.js",
   "service-worker.js": "/browser-realtime-face-recognition/service-worker.js"
 }
