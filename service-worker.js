@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/browser-realtime-face-recognition/precache-manifest.fa7cb3fe953c78e8dd4fbc543ce4a2c6.js"
+  "/browser-realtime-face-recognition/precache-manifest.9fb747af1248938f850f0948e9d8c4db.js"
 );
 
 workbox.clientsClaim();
