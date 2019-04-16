@@ -1,16 +1,16 @@
 {
   "main.css": "/browser-realtime-face-recognition/static/css/main.23b4575f.chunk.css",
-  "main.js": "/browser-realtime-face-recognition/static/js/main.5452090a.chunk.js",
-  "main.js.map": "/browser-realtime-face-recognition/static/js/main.5452090a.chunk.js.map",
+  "main.js": "/browser-realtime-face-recognition/static/js/main.9fe4f898.chunk.js",
+  "main.js.map": "/browser-realtime-face-recognition/static/js/main.9fe4f898.chunk.js.map",
   "static/css/1.ae1e8faa.chunk.css": "/browser-realtime-face-recognition/static/css/1.ae1e8faa.chunk.css",
-  "static/js/1.9291074a.chunk.js": "/browser-realtime-face-recognition/static/js/1.9291074a.chunk.js",
-  "static/js/1.9291074a.chunk.js.map": "/browser-realtime-face-recognition/static/js/1.9291074a.chunk.js.map",
+  "static/js/1.efb6eff5.chunk.js": "/browser-realtime-face-recognition/static/js/1.efb6eff5.chunk.js",
+  "static/js/1.efb6eff5.chunk.js.map": "/browser-realtime-face-recognition/static/js/1.efb6eff5.chunk.js.map",
   "runtime~main.js": "/browser-realtime-face-recognition/static/js/runtime~main.3239acaf.js",
   "runtime~main.js.map": "/browser-realtime-face-recognition/static/js/runtime~main.3239acaf.js.map",
-  "static/css/1.ae1e8faa.chunk.css.map": "/browser-realtime-face-recognition/static/css/1.ae1e8faa.chunk.css.map",
-  "static/media/test.jpg": "/browser-realtime-face-recognition/static/media/test.34e86f06.jpg",
   "static/css/main.23b4575f.chunk.css.map": "/browser-realtime-face-recognition/static/css/main.23b4575f.chunk.css.map",
+  "static/media/test.jpg": "/browser-realtime-face-recognition/static/media/test.34e86f06.jpg",
+  "static/css/1.ae1e8faa.chunk.css.map": "/browser-realtime-face-recognition/static/css/1.ae1e8faa.chunk.css.map",
   "index.html": "/browser-realtime-face-recognition/index.html",
-  "precache-manifest.e1bfe65199d9f60587cd86ef9a310264.js": "/browser-realtime-face-recognition/precache-manifest.e1bfe65199d9f60587cd86ef9a310264.js",
+  "precache-manifest.19cdc639f2e1833076e4bf366ea91571.js": "/browser-realtime-face-recognition/precache-manifest.19cdc639f2e1833076e4bf366ea91571.js",
   "service-worker.js": "/browser-realtime-face-recognition/service-worker.js"
 }
